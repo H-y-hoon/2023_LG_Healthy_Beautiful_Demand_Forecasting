@@ -1,1 +1,1 @@
-# 2023_LG-Healthy-Beautiful_Demand-Forecasting
+# 2023_LG_Healthy_Beautiful_Demand-Forecasting
